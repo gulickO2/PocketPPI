@@ -1,7 +1,7 @@
 # PocketPPI
 
 
-**ESP332 based ADS-B display**
+**ESP32 based ADS-B display**
 
 ## 🚀 Overview
 
