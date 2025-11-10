@@ -5,7 +5,7 @@
 
 ## 🚀 Overview
 
-ADESP-ETD600 is an open-source embedded traffic display system that shows real-time aircraft positions using ADS-B data. Built on the ESP32 platform with a vibrant TFT display, and designed to mimic ATC plan position indicator displays, it provides professional-grade aircraft tracking in a compact, portable package. Does not need any external harware. ADS-B data is handled onboard via an aerobits TT-SC1
+PocketPPI is an open-source embedded traffic display system that shows real-time aircraft positions using ADS-B data. Built on the ESP32 platform with a vibrant TFT display, and designed to mimic ATC plan position indicator displays, it provides professional-grade aircraft tracking in a compact, portable package. Does not need any external harware. ADS-B data is handled onboard via an aerobits TT-SC1
 
 ## ✨ Features
 
