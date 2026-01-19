@@ -1,6 +1,9 @@
 # PocketPPI
 
 
+<img width="332" height="265" alt="Screenshot 2025-12-04 at 9 20 59 PM" src="https://github.com/user-attachments/assets/e326a28e-d26e-49e1-bfa5-dc389db8f882" />
+
+
 **ESP32 based ADS-B display**
 
 ## 🚀 Overview
@@ -26,4 +29,5 @@ PocketPPI is an open-source embedded traffic display system that shows real-time
 - **LiPo Battery** (3.7V, 2000mAh+ recommended)
 
 
+<img width="750" height="390" alt="Screenshot 2025-12-13 at 4 14 19 PM" src="https://github.com/user-attachments/assets/725a7a6d-4ac6-4f67-b49c-d8ddc88c9acd" />
 
