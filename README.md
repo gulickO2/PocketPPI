@@ -1,9 +1,5 @@
 # PocketPPI
 
-
-<img width="332" height="265" alt="Screenshot 2025-12-04 at 9 20 59 PM" src="https://github.com/user-attachments/assets/e326a28e-d26e-49e1-bfa5-dc389db8f882" />
-
-
 **ESP32 based ADS-B display**
 
 ## 🚀 Overview
